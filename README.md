@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Clawlike
 - 👀 I’m interested in gaming
 - 🌱 I’m currently learning to code (maybe idfk)
-- 📫 How to reach me Clawlike#1435 (discord)
+- 📫 If you want to contact me my Discord username is Clawlike (discord)
 
 <!---
 Clawlike/Clawlike is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
